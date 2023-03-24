@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #c5c5c5;
+    margin: auto;
+    font-family: "Open Sans", sans-serif;
+}
+
+.card{
+    border-top: 15px solid #8132a3;
+    border-radius: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:  250px;
+    height: 21rem;
+    background-color: white;
+    margin-top: 10%;
+ 
+}
+.sectionOfImage{
+    text-align: center;
+    padding-top: 6%;
+}
+.photo{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+    border: 6px solid white;
+    width:120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.section{
+    margin: auto;
+    width: 80%;
+    padding-top: 4%;
+
+}
+.line{
+    border-bottom: 1.5px solid #eeeeee;
+    padding-top: 6%;
+
+}
+h5{
+    margin: auto;
+}
+.label{
+font-size: 12px;
+}
+.value{
+font-size: 14px;
+}
